@@ -1,0 +1,33 @@
+{
+    "name": "link",
+    "title": "Link jQuery Plugin",
+    "description": "Simple plugin to convert any element into a link",
+    "keywords": [
+        "link",
+        "html",
+		"content"
+    ],
+    "version": "0.2.0",
+    "author": {
+        "name": "Brad Traversy",
+        "url": "http://techguywebsolutions.com"
+    },
+    "maintainers": [
+        {
+            "name": "Brad Traversy",
+            "email": "techguyinfo@gmail.com",
+            "url": "http://techguywebsolutions.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/Abhijeet-Das/jquery.link/blob/master/LICENSE.txt"
+        }
+    ],
+    "homepage": "https://github.com/Abhijeet-Das/jquery.link",
+    "docs": "https://github.com/Abhijeet-Das/jquery.link",
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
